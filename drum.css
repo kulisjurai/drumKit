@@ -32,11 +32,3 @@ body {
 .buttons:hover {
   cursor: pointer;
 }
-
-.clash {
-  margin: 5px;
-  border-radius: 10px;
-  background-color: rgb(221, 186, 30);
-  width: 12vw;
-  height: 12vw;
-}
